@@ -1,4 +1,5 @@
 {
+  "info":{
   "ETFName": "FTEC",
   "dateOfAnalysis": "2020-04-17 00:00:00",
   "dateWhenAnalysisRan": "2020-04-18 12:40:55.800000",
@@ -11343,4 +11344,5 @@
       "Change%10": ["CRNC", 0.2953]
     }
   ]
+}
 }

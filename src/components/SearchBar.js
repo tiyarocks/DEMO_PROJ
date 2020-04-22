@@ -16,12 +16,14 @@ class SearchBar extends React.Component {
             <label>Search</label>
             <input
               type="text"
+              placeholder="Enter ETF name"
               value={this.state.term}
               onChange={e => this.setState({ term: e.target.value })}
             />
             <input
               type="date"
               value={this.state.date}
+              placeholder="Enter date"
               onChange={e => this.setState({ date: e.target.value })}
             />
             
